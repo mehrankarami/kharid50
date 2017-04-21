@@ -27,9 +27,9 @@ https://feelthecode.com
 ما را در جریان قرار دهید تا پیگیری های لازم
 صورت پذیرد
 
-site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
+site:
+Telegram Bot: https://telegram.me/shomaremajazi12_bot
+Telegram Channel: https://telegram.me/kharid55
 
 یا علی خدا قوت
 */
